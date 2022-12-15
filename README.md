@@ -35,4 +35,4 @@ http://monashbioinformaticsplatform.github.io/RNAseq-DE-analysis-with-R/RNAseq_D
 
 # Resources
 
-https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html#Overview
+1. https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html#Overview
