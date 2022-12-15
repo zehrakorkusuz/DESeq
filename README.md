@@ -1,6 +1,6 @@
 # DESeq
 
-This is the repository of the replication of .... code to discover DESeq library in R.
+This is the repository of the replication of RNA Sequencing Analysis Tutorial to discover DESeq library in R.
 
 # Overview
 
