@@ -2,7 +2,7 @@
 
 This is the repository of the replication of .... code to discover DESeq library in R.
 
-#Overview
+# Overview
 
 - Reading in table of counts
 - Adding annotation
@@ -15,7 +15,7 @@ This is the repository of the replication of .... code to discover DESeq library
 - Gene set testing
 
 
-#Datasets
+# Datasets
 Data files are available from: https://figshare.com/s/1d788fd384d33e913a2a. You should download the files listed below and place them into a folder called data in your working directory.
 
 Data files:
@@ -33,6 +33,6 @@ http://www.statsci.org/smyth/pubs/QLedgeRPreprint.pdf (Lun, Chen, and Smyth 2016
 http://monashbioinformaticsplatform.github.io/RNAseq-DE-analysis-with-R/RNAseq_DE_analysis_with_R.html
 
 
-#Resources
+# Resources
 
 https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html#Overview
